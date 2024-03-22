@@ -6,14 +6,14 @@ This is not the final system, but just some scratch code to get started with the
 The code is provided as is and no support is provided. If you have any questions, please feel free to contact me at [ly.duyentran@dcu.ie](mailto:lyduyen.tran@dcu.ie).
 
 # Requirements
-Package                           Version
---------------------------------- ------------
-jupytext                          1.16.1
-openai                            1.14.2
-pandas                            1.5.3
-torch                             2.1.1
-tqdm                              4.66.1
-typing_extensions                 4.8.0
+|Package               |            Version|
+|----------------------|-------------------|
+|jupytext              |            1.16.1 |
+|openai                |            1.14.2 |
+|pandas                |            1.5.3  |
+|torch                 |            2.1.1  |
+|tqdm                  |            4.66.1 |
+|typing_extensions     |            4.8.0  |
 
 
 # Usage
